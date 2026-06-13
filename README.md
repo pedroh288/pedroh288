@@ -93,3 +93,11 @@
   <a href="https://linktr.ee/pedroh288" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
   </a>
 </div>
+
+## (Github Analytics)
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=pedroh288&show_icons=true&theme=dracula&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+  &nbsp;
+
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh288&layout=compact&theme=dracula&border_radius=10&hide_border=false&langs_count=8"/>
+</div>
