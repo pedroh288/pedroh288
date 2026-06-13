@@ -90,7 +90,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   </a>
 </div>
 
-## (Github Analytics)
+## `(Github Analytics)`
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=pedroh288&show_icons=true&theme=dracula&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
   &nbsp;
