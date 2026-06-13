@@ -54,14 +54,6 @@ Eu estou buscando toda oportunidade de ensino e experiência!
 <div align="center">
   <img
   aling="left"
-  alt= "Github"
-  title="Github"
-  width="50px"
-  sytle="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-  />
-  <img
-  aling="left"
   alt= "Visual Studio Code"
   title="Visual Studio Code"
   width="50px"
