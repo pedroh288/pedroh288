@@ -11,7 +11,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   <img
   alt="HTML"
   title="HTML"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
@@ -19,7 +19,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "CSS"
   title="CSS"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
   />
@@ -27,7 +27,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "Python"
   title="Python"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
@@ -35,7 +35,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "Git"
   title="Git"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
@@ -43,7 +43,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "Markdown"
   title="markdown"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"
   />
@@ -56,7 +56,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "Git"
   title="Git"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
@@ -64,7 +64,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "Visual Studio Code"
   title="Visual Studio Code"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
   />
@@ -72,7 +72,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "Linux"
   title="Linux"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
   />
@@ -80,7 +80,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   aling="left"
   alt= "Kali Linux"
   title="Kali Linux"
-  width="40px"
+  width="50px"
   sytle="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
   />
@@ -88,7 +88,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
 
 ## `{Contatos}`
 <div align="center">
-  <a href="https://instagram.com/pedro_h288" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://instagram.com/pedro_h288" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4505F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/pedro-henrique-rangel-071669213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
