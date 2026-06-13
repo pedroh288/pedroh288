@@ -1,6 +1,10 @@
 # Olá!
 **`< Desenvolvedor | Cybersecurity />`**
 
+Eu me chamo Pedro Henrique, sou uma pessoa que ama muito a tecnologia e todas as suas áreas, seja **Hardware** ou **Software**. Eu estou trilhando meu caminho para me tornar um **engenheiro de software** e **especialista em cibersegurança** para me tornar um hacker ético. <br>
+Eu adoro todas as áreas de TI, mas a programação e a segurança de dados foram as áreas que me conquistaram. <br>
+Eu estou buscando toda oportunidade de ensino e experiência!
+
 ## `[Linguagens]`
 
 <div align="center">
