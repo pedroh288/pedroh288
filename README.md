@@ -1,5 +1,4 @@
 # Olá!
-Estudante de:<br>
 **`< Back-End | DevOps | Cybersecurity />`**
 
 Eu me chamo Pedro Henrique, sou uma pessoa que ama muito a tecnologia e todas as suas áreas, seja **Hardware** ou **Software**. Eu estou trilhando meu caminho para me tornar um **engenheiro de software** e **especialista em cibersegurança** para me tornar um desenvolvedor **Back-end**, **DevOps** **Hacker Ético**.<br>
@@ -7,7 +6,6 @@ Eu adoro todas as áreas de TI, mas a *programação* e a *segurança de dados* 
 Eu estou buscando toda oportunidade de ensino e experiência!
 
 ## `(Linguagens)`
-
 <div align="center">
   <img
     alt="HTML5"
@@ -51,7 +49,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   <img
     aling="left"
     alt= "Markdown"
-    title="markdown"
+    title="Markdown"
     width="50px"
     sytle="padding-right: 10px"
     src="./tech_stacks/Markdown.svg"
@@ -59,16 +57,7 @@ Eu estou buscando toda oportunidade de ensino e experiência!
 </div>
 
 ## `[Tecnologias]`
-
 <div align="center">
-  <img
-    aling="left"
-    alt= "Visual Studio Code"
-    title="Visual Studio Code"
-    width="50px"
-    sytle="padding-right: 10px"
-    src="./technology/VSCode.svg" 
-  />
   <img
     aling="left"
     alt= "Linux"
@@ -87,7 +76,27 @@ Eu estou buscando toda oportunidade de ensino e experiência!
   />
 </div>
 
-## `{Contatos}`
+## `{Softwares}`
+<div align="center">
+  <img
+    aling="left"
+    alt= "Visual Studio Code"
+    title="Visual Studio Code"
+    width="50px"
+    sytle="padding-right: 10px"
+    src="./technology/VSCode.svg" 
+  />
+  <img
+    aling="left"
+    alt= "Cisco Packet Tracer"
+    title="Cisco Packet Tracer"
+    width="50px"
+    sytle="padding-right: 10px"
+    src="./softwares/Cisco_Packet_Tracer.png"
+    />
+</div>
+
+## `Contatos`
 <div align="center">
   <!--<a href="https://instagram.com/pedro_h288" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4505F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>!-->
