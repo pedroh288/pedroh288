@@ -127,3 +127,5 @@ Eu estou buscando toda oportunidade de ensino e experiência!
 
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroh288&layout=compact&theme=dracula&border_radius=10&hide_border=false&langs_count=8"/>
 </div> --!>
+
+git push --force-with-lease
